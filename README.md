@@ -1,4 +1,4 @@
 # pro_jects
-[Figma portfolio link] (https://www.figma.com/proto/fQDbPSmYhThAt90EAhoJql/Untitled?node-id=0-1&t=a3u103ObvoUxDW4d-1)
+[Figma portfolio link] (https://www.figma.com/proto/fQDbPSmYhThAt90EAhoJql/Untitled?node-id=1-2&t=50QCzpKv00rOC9UP-1)
 
 [Simple food delivery app front page] (https://www.figma.com/proto/OnCUbsRAINFlUdd8KaOVUe/B's-cafe?node-id=0-1&t=50QCzpKv00rOC9UP-1)
